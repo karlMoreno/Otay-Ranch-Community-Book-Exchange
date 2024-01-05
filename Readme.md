@@ -7,15 +7,15 @@ Welcome to the repository for the Otay Ranch Community Book Exchange project! Th
 
 
 ## Features ##
-Book Sharing and Exchange: A user-friendly interface for members to share and exchange books with others in the community.
+- Book Sharing and Exchange: A user-friendly interface for members to share and exchange books with others in the community.
 
-Review and Rating System: Users can write reviews and rate books, providing valuable insights to fellow members.
+- Review and Rating System: Users can write reviews and rate books, providing valuable insights to fellow members.
 
-Book Donation Functionality: A seamless process for donating books to the community library or to other members.
+- Book Donation Functionality: A seamless process for donating books to the community library or to other members.
 
-Comprehensive Book Catalog: An extensive collection of books categorized by genres, authors, and more.
+- Comprehensive Book Catalog: An extensive collection of books categorized by genres, authors, and more.
 
-Community Engagement: Discussion forums and community events to engage and connect book lovers.
+- Community Engagement: Discussion forums and community events to engage and connect book lovers.
 
 
 
@@ -43,11 +43,17 @@ For support or to report issues, please file a ticket in the Issues section of t
 
 ## Acknowledgements ##
 
-Otay Ranch Community Members
-Volunteer Developers and Contributors
+Otay Ranch Community Members :smile:
+Volunteer Developers and Contributors :smile:
 
 
 
 
 Happy Reading and Sharing with Otay Ranch Community Book Exchange!
+
+
+<details>
+  <summary>Click to expand!</summary>
+  HEY THIS WORKS :smile:
+</details>
 
