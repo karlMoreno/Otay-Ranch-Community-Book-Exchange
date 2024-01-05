@@ -1,4 +1,4 @@
-#Otay Ranch Community Book Exchange#
+# Otay Ranch Community Book Exchange #
 
 
 
@@ -6,7 +6,7 @@ Welcome to the repository for the Otay Ranch Community Book Exchange project! Th
 
 
 
-##Features##
+## Features ##
 Book Sharing and Exchange: A user-friendly interface for members to share and exchange books with others in the community.
 
 Review and Rating System: Users can write reviews and rate books, providing valuable insights to fellow members.
@@ -22,14 +22,14 @@ Community Engagement: Discussion forums and community events to engage and conne
 
 
 
-##Contributing##
+## Contributing ##
 
 We welcome contributions from the community! If you're interested in helping improve the Otay Ranch Community Book Exchange, please take a look at our contributing guidelines in CONTRIBUTING.md and submit your pull requests.
 
 
 
 
-##Support##
+## Support ##
 
 For support or to report issues, please file a ticket in the Issues section of this repository.
 
@@ -41,7 +41,7 @@ For support or to report issues, please file a ticket in the Issues section of t
 
 
 
-##Acknowledgements##
+## Acknowledgements ##
 
 Otay Ranch Community Members
 Volunteer Developers and Contributors
